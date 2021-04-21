@@ -11,7 +11,7 @@
 * Created custom dataset and labelled using LabelImg
 * Used Google Colab (for model training), Google Drive (for storage). 
 * ssd_mobilenet_v2_320x320_coco17_tpu pretrained model used to implement transfer learning. 
-<img src="https://github.com/RohanLone/sample/blob/gh-pages/assets/images/8.png?raw=true"/>
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/8.png?raw=true"/>
 
 ---
 ## Project 2 
