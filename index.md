@@ -57,7 +57,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 * Implemented transfer learning.
 * Built an web application for user interface
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%204.png?raw=true"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  All the classes of plant disease dataset  
+&emsp;&emsp;&emsp; All the classes of plant disease dataset  
 
 ---
 
