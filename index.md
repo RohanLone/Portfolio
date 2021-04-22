@@ -8,6 +8,7 @@
 
 ## Project 1 
 # [Soccer Player recognition using TensorFlow 2 Object Detection API](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0) 
+<a href="{{ https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0 }}" class="btn">View on GitHub</a>
 * Created a model that detects players in frame.
 * Created custom dataset and labelled using LabelImg
 * Used Google Colab (for model training), Google Drive (for storage). 
