@@ -18,7 +18,7 @@
 # [Vehicle Number Plate Detection](https://github.com/RohanLone/Number-Plate-Detection-App) 
 For this example project I built a number plate detector to identify number plate from frame. This could be useful for Motorway Road Tolling, vehicle theft prevention and parking management. They could take a picture or real time video of a vehicle and an app could serve them number plate. This is the underlying model for building something with those capabilities. 
 
-This project strictly built on OpenCV. Create an we application using Streamlit library. 
+This project strictly built on OpenCV. Created an application using Streamlit library. 
 <img src="https://github.com/RohanLone/Number-Plate-Detection-App/blob/main/Demo/Demo.gif?raw=true"/>
 
 ---
@@ -63,7 +63,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 ## Project  6
 # [Word Cloud](https://github.com/RohanLone/wordcloud) 
-word cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
+Word cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
 Word clouds are a simple and cost-effective way to visualise text data.
 
