@@ -45,6 +45,21 @@ Word embedding is a concept used in `natural language processing` to describe th
 
 ---
 
+
+## Project 4 
+# [Face Mask Detection](https://github.com/RohanLone/Face_mask_detection) 
+* Created a model that detects human faces with mask and without mask from images.
+* 50 Images are used for model building and labelled using LabelImg
+* Used Google Colab (for model training), Google Drive (for storage). 
+* Achieved 0.878 and 0.883 Average Precision and recall respectively.
+* ssd_mobilenet_v2_320x320_coco17_tpu pretrained model used to implement transfer learning. 
+
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/result.png?raw=true"/>
+
+---
+
+
+
 ## Project 5
 # Plant Leaf & Disease Recognition
 In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
