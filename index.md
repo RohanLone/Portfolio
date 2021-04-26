@@ -46,7 +46,7 @@ Word embedding is a concept used in `natural language processing` to describe th
 ---
 
 
-## Project 4 
+## Project 5 
 # [Face Mask Detection](https://github.com/RohanLone/Face_mask_detection) 
 * Created a model that detects human faces with mask and without mask from images.
 * 50 Images are used for model building and labelled using LabelImg
@@ -60,7 +60,7 @@ Word embedding is a concept used in `natural language processing` to describe th
 
 
 
-## Project 5
+## Project 6
 # Plant Leaf & Disease Recognition
 In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
 This project suggests improving the use technology and using the most efficient Convolution Neural Network model to work with maximum accuracy and minimal resource consumption as a detection system. A CNN based model trained with images of healthy and unhealthy plant leaves using public datasets is proposed in this study. 
@@ -76,7 +76,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 ---
 
-## Project  6
+## Project  7
 # [Word Cloud](https://github.com/RohanLone/wordcloud) 
 Word cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
