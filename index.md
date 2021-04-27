@@ -86,9 +86,19 @@ Word clouds are a simple and cost-effective way to visualise text data.
 
 <img src="https://github.com/RohanLone/wordcloud/blob/main/Screenshots/Screenshot_Streamlit_app.png?raw=true"/>
 
-
 ---
 
+## Project  7
+# [Object Detection using OpenCV](https://github.com/RohanLone/object_detection_opencv) 
+For this example project created an `HSV` mask using opencv and python for identifying object purely by it's color
+The trackbar can be used for change the color for detection of object in frame.
+
+**Following output is for black color object** 
+
+<img src="https://github.com/RohanLone/object_detection_opencv/blob/main/Demo%20Videos/Demo.gif?raw=true"/>
+
+
+---
 
 
 
