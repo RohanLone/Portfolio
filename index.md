@@ -1,7 +1,7 @@
 [Home/](https://rohanlone.github.io/Home/)Portfolio
 
 # Portfolio
-### <em> Updated: 27/04/2021 </em>
+### <em> Updated: 29/04/2021 </em>
 
 ---
 
@@ -49,24 +49,26 @@ Word embedding is a concept used in `natural language processing` to describe th
 # [Heart Disease Prediction](https://github.com/RohanLone/Heart-Disease-Prediction) 
 The data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
 The dataset consists of 303 individuals data. There are 14 columns in the dataset, which are described below.
-    •	age,
-    •	sex,
-    •	cp, chest pain
-    •	restbp, resting blood pressure (in mm Hg)
-    •	chol, serum cholesterol in mg/dl
-    •	fbs, fasting blood sugar
-    •	restecg, resting electrocardiographic results
-    •	thalach, maximum heart rate achieved
-    •	exang, exercise induced angina
-    •	oldpeak, ST depression induced by exercise relative to rest
-    •	slope, the slope of the peak exercise ST segment.
-    •	ca, number of major vessels (0-3) colored by fluoroscopy
-    •	thal, this is short of thalium heart scan.
-    •	hd, diagnosis of heart disease, the predicted attribute
+    
+   1. age
+   2. sex
+   3. cp, chest pain
+   4. restbp, resting blood pressure (in mm Hg)
+   5. chol, serum cholesterol in mg/dl
+   6. fbs, fasting blood sugar
+   7. restecg, resting electrocardiographic results
+   8. thalach, maximum heart rate achieved
+   9. exang, exercise induced angina
+   10. oldpeak, ST depression induced by exercise relative to rest
+   11. slope, the slope of the peak exercise ST segment.
+   12. ca, number of major vessels (0-3) colored by fluoroscopy
+   13. thal, this is short of thalium heart scan.
+   14. hd, diagnosis of heart disease, the predicted attribute
 
-*  Built an SVM classifier.
+  *  Built an SVM classifier.
 Before that dealt with the data. Prcoess like Data preprocessing and selection, Identifying missing data, Dealing with missing data is done.
 
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/SVM.png?raw=true"/>
 
 ---
 
