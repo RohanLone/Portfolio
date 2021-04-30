@@ -45,8 +45,32 @@ Word embedding is a concept used in `natural language processing` to describe th
 
 ---
 
-
 ## Project 5 
+# [Heart Disease Prediction](https://github.com/RohanLone/Heart-Disease-Prediction) 
+The data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
+The dataset consists of 303 individuals data. There are 14 columns in the dataset, which are described below.
+    •	age,
+    •	sex,
+    •	cp, chest pain
+    •	restbp, resting blood pressure (in mm Hg)
+    •	chol, serum cholesterol in mg/dl
+    •	fbs, fasting blood sugar
+    •	restecg, resting electrocardiographic results
+    •	thalach, maximum heart rate achieved
+    •	exang, exercise induced angina
+    •	oldpeak, ST depression induced by exercise relative to rest
+    •	slope, the slope of the peak exercise ST segment.
+    •	ca, number of major vessels (0-3) colored by fluoroscopy
+    •	thal, this is short of thalium heart scan.
+    •	hd, diagnosis of heart disease, the predicted attribute
+
+*  Built an SVM classifier.
+Before that dealt with the data. Prcoess like Data preprocessing and selection, Identifying missing data, Dealing with missing data is done.
+
+
+---
+
+## Project  6
 # [Face Mask Detection](https://github.com/RohanLone/Face_mask_detection) 
 * Created a model that detects human faces with mask and without mask from images.
 * 50 Images are used for model building and labelled using LabelImg
@@ -60,7 +84,7 @@ Word embedding is a concept used in `natural language processing` to describe th
 
 
 
-## Project 6
+## Project 7
 # Plant Leaf & Disease Recognition
 In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
 This project suggests improving the use technology and using the most efficient Convolution Neural Network model to work with maximum accuracy and minimal resource consumption as a detection system. A CNN based model trained with images of healthy and unhealthy plant leaves using public datasets is proposed in this study. 
@@ -76,7 +100,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 ---
 
-## Project  7
+## Project  8
 # [Word Cloud](https://github.com/RohanLone/wordcloud) 
 Word cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
@@ -88,7 +112,7 @@ Word clouds are a simple and cost-effective way to visualise text data.
 
 ---
 
-## Project  7
+## Project  9
 # [Object Detection using OpenCV](https://github.com/RohanLone/object_detection_opencv) 
 For this example project created an `HSV` mask using opencv and python for identifying object purely by it's color
 The trackbar can be used for change the color for detection of object in frame.
