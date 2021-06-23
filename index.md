@@ -25,7 +25,7 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 
 ## Project 3 
 # [Water Quality Analysis & Data Modeling](https://github.com/RohanLone/Water-Quality-Analysis-and-Ensemble-Modeling/blob/main/water-quality-analysis-and-ensemble-modeling.ipynb) 
-Water quality is one amongst the foremost important factors in a healthy ecosystem. Clean water supports various plants and wildlife. Create a model to determine if the sample tested from the water body is fit for human consumption or not.
+Water quality is one amongst the foremost important factors in a healthy ecosystem. Clean water supports various plants and wildlife. Created a model to determine if the sample tested from the water body is fit for human consumption or not.
 
 * Built an predictive model using `Ensemble learning technique`.
 * Performed Data Preprocessing, Data Visualization and Data Modeling.
