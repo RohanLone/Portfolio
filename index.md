@@ -23,8 +23,24 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 
 ---
 
-
 ## Project 3 
+# [Water Quality Analysis & Data Modeling](https://github.com/RohanLone/Water-Quality-Analysis-and-Ensemble-Modeling/blob/main/water-quality-analysis-and-ensemble-modeling.ipynb) 
+Water quality is one amongst the foremost important factors in a healthy ecosystem. Clean water supports various plants and wildlife. Though it's going to seem unrelated initially , our actions ashore affect the standard of our water. Pollutants,from fertilizers, and sediment frequently get carried into lakes and rivers via runoff from urban areas or agricultural fields. 
+
+* Built an predictive model using `Ensemble learning technique`.
+* Performed Data Preprocessing, Data Visualization and Data Modeling.
+* Dataset contains null values so replaced null values with mean.
+* Used Seaborn library for data visualization.
+* Tried algorithms like RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, LGBMClassifier. 
+* Performed Hyperparameter tuning on RandomForestClassifier and LGBMClassifier and improved the accuracy.
+
+<img src="https://raw.githubusercontent.com/RohanLone/Home/gh-pages/assets/images/Water_Qulaity_Result.png?raw=true"/>
+---
+
+
+
+
+## Project 4 
 # [Face Verification](https://github.com/RohanLone/FaceVerification) 
 * Built a deep learning model from scratch that verifies face.
 * Used Tensorflow library to build model, This model learn information about object categories from one, or only a few, training samples/images.
@@ -34,7 +50,7 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 
 ---
 
-## Project 4 
+## Project 5 
 # [Word Emebedding](https://github.com/RohanLone/word_embedding) 
 Word embedding is a concept used in `natural language processing` to describe the representation of words for text processing, which is usually in the form of a real-valued vector that embeds the meaning of the word and determines that words that are near in the vector space will have similar meanings.
 * Built a Keras model on IMDB Review Dataset for finding the relationship between words.
@@ -45,7 +61,7 @@ Word embedding is a concept used in `natural language processing` to describe th
 
 ---
 
-## Project 5 
+## Project 6 
 # [Heart Disease Prediction](https://github.com/RohanLone/Heart-Disease-Prediction) 
 The data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
 The dataset consists of 303 individuals data. There are 14 columns in the dataset, which are described below.
@@ -72,7 +88,7 @@ Before that dealt with the data. Prcoess like Data preprocessing and selection, 
 
 ---
 
-## Project  6
+## Project  7
 # [Face Mask Detection](https://github.com/RohanLone/Face_mask_detection) 
 * Created a model that detects human faces with mask and without mask from images.
 * 50 Images are used for model building and labelled using LabelImg
@@ -86,7 +102,7 @@ Before that dealt with the data. Prcoess like Data preprocessing and selection, 
 
 
 
-## Project 7
+## Project 8
 # Plant Leaf & Disease Recognition
 In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
 This project suggests improving the use technology and using the most efficient Convolution Neural Network model to work with maximum accuracy and minimal resource consumption as a detection system. A CNN based model trained with images of healthy and unhealthy plant leaves using public datasets is proposed in this study. 
@@ -102,7 +118,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 ---
 
-## Project  8
+## Project  9
 # [Word Cloud](https://github.com/RohanLone/wordcloud) 
 Word cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance.
 
@@ -114,7 +130,7 @@ Word clouds are a simple and cost-effective way to visualise text data.
 
 ---
 
-## Project  9
+## Project  10
 # [Object Detection using OpenCV](https://github.com/RohanLone/object_detection_opencv) 
 For this example project created an `HSV` mask using opencv and python for identifying object purely by it's color
 The trackbar can be used for change the color for detection of object in frame.
