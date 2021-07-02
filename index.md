@@ -1,7 +1,7 @@
 [Home/](https://rohanlone.github.io/Home/)Portfolio
 
 # Portfolio
-### <em> Updated: 23/06/2021 </em>
+### <em> Updated: 02/07/2021 </em>
 
 ---
 
@@ -24,7 +24,7 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 ---
 
 ## Project 3 
-# [Water Quality Analysis & Data Modeling](https://github.com/RohanLone/Water-Quality-Analysis-and-Ensemble-Modeling/blob/main/water-quality-analysis-and-ensemble-modeling.ipynb) 
+# [Water Quality Analysis & Data Modeling](https://www.kaggle.com/rohanlone4/water-quality-analysis-and-ensemble-modeling) 
 Water quality is one amongst the foremost important factors in a healthy ecosystem. Clean water supports various plants and wildlife. Created a model to determine if the sample tested from the water body is fit for human consumption or not.
 
 * Built an predictive model using `Ensemble learning technique`.
