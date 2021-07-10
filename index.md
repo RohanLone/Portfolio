@@ -117,11 +117,15 @@ Word embedding is a concept used in `natural language processing` to describe th
 ---
 
 ## Project  10
-#[Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
+# [Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
 Predicting which Tweets are about real disasters and which ones are not.  
+
+* Built a Keras model on Kaggle's Competition data: Natural Language Processing with Disaster Tweets. 
+* Performed EDA on data and visualized with word cloud. 
+
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/twitter.png?raw=true"/>
 
