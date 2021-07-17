@@ -1,7 +1,7 @@
 [Home/](https://rohanlone.github.io/Home/)Portfolio
 
 # Portfolio
-### <em> Updated: 10/07/2021 </em>
+### <em> Updated: 17/07/2021 </em>
 
 ---
 
@@ -133,7 +133,7 @@ Predicting which Tweets are about real disasters and which ones are not.
 
 ## Project 11 
 # [Heart Disease Prediction](https://github.com/RohanLone/Heart-Disease-Prediction) 
-The data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
+The data set contains continuous and categorical data from the UCI Machine Learning Repository. It is used to predict whether or not a patient has heart disease.
 The dataset consists of 303 individuals data. There are 14 columns in the dataset, which are described below.
     
    1. age
@@ -152,7 +152,8 @@ The dataset consists of 303 individuals data. There are 14 columns in the datase
    14. hd, diagnosis of heart disease, the predicted attribute
 
   *  Built an SVM classifier.
-Before that dealt with the data. Prcoess like Data preprocessing and selection, Identifying missing data, Dealing with missing data is done.
+Before that dealt with the data, Prcoess like Data preprocessing, selection, identifying missing data, dealing with missing data is done.
+
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/SVM.png?raw=true"/>
 
