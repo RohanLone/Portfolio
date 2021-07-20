@@ -9,9 +9,8 @@ Hi, I'm currently a graduate student working towards my Master of Technology (M.
 
 ---
 
-# Skils 
+# Skills 
 Below are some of my skills, and I'm always looking to learn more.
-
 (Somewhat outdated, will update soon. Grad student life is very busy!)
 
 | Skill              | Rating         | 
@@ -24,7 +23,7 @@ Below are some of my skills, and I'm always looking to learn more.
 | Java         | 7/10      |  
 | C/C++     | 7/10      |  
 | MYSQL | 9/10      |  
-| Statistics | 7/10      |  
+
 
 
 
