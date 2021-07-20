@@ -1,30 +1,37 @@
 [Home/](https://rohanlone.github.io/Home/)Portfolio
 
+### <em> Updated: 20/07/2021 </em>
+
+
 # About
+
 Hi, I'm currently a graduate student working towards my Master of Technology (M.Tech.) degree in Computer Science. My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. 
+
 ---
 
 # Skils 
 Below are some of my skills, and I'm always looking to learn more.
+
 (Somewhat outdated, will update soon. Grad student life is very busy!)
 
 | Skill              | Rating         | 
 | -------------       |:-------------:| 
 | Machine Learning     | 8/10 | 
-| Deep Learning      | 7/10      |  
-| DATA ANALYSIS | 9/10      |  
+| Deep Learning      | 8/10      |  
+| Data Analysis | 9/10      |  
 | Cloud Computing | 8/10      | 
-| PYTHON         | 9/10      |  
-| JAVA         | 7/10      |  
+| Python        | 9/10      |  
+| Java         | 7/10      |  
 | C/C++     | 7/10      |  
 | MYSQL | 9/10      |  
+| Statistics | 7/10      |  
 
 
 
 
----
 # Portfolio
-### <em> Updated: 17/07/2021 </em>
+
+Here you can see some of the projects I've done on my own time.
 
 ---
 
