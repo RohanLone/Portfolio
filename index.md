@@ -11,7 +11,6 @@ Hi, I'm currently a graduate student working towards my Master of Technology (M.
 
 # Skills 
 Below are some of my skills, and I'm always looking to learn more.
-(Somewhat outdated, will update soon. Grad student life is very busy!)
 
 | Skill              | Rating         | 
 | -------------       |:-------------:| 
@@ -85,7 +84,9 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 * Built CNN model using Tensorflow that detects plant and it's disease
 * Dataset contains 80K+ images of healthy and diseased crop leaf.
-* Implemented transfer learning.
+* Used different pre-trained model to implement transfer learning.
+* Used different Data Augmentation techniques. 
+* Achieved 99% accuracy.
 * Built an web application for user interface
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%204.png?raw=true"/>
 &emsp;&emsp;&emsp; All the classes of plant disease dataset  
