@@ -76,7 +76,7 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 
 
 ## Project 5
-# Plant Leaf & Disease Recognition
+# [Plant Leaf & Disease Recognition](https://www.kaggle.com/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
 In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
 This project suggests improving the use technology and using the most efficient Convolution Neural Network model to work with maximum accuracy and minimal resource consumption as a detection system. A CNN based model trained with images of healthy and unhealthy plant leaves using public datasets is proposed in this study. 
 
