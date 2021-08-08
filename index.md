@@ -84,6 +84,7 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 
 * Built CNN model using Tensorflow that detects plant and it's disease
 * Dataset contains 80K+ images of healthy and diseased crop leaf.
+* Achieved Gold medal for notebook on kaggle
 * Used different pre-trained model to implement transfer learning.
 * Used different Data Augmentation techniques. 
 * Achieved 99% accuracy.
