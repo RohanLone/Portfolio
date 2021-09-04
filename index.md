@@ -121,6 +121,12 @@ The result of this project is supposed to be of huge advantage to farmers as sma
 * Used Google Colab (for model training), Google Drive (for storage). 
 * ssd_mobilenet_v2_320x320_coco17_tpu pretrained model used to implement transfer learning. 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/8.png?raw=true"/>
+
+---
+
+
+## Project  6
+
 # [Word Emebedding](https://github.com/RohanLone/word_embedding) 
 Word embedding is a concept used in `natural language processing` to describe the representation of words for text processing, which is usually in the form of a real-valued vector that embeds the meaning of the word and determines that words that are near in the vector space will have similar meanings.
 * Built a Keras model on IMDB Review Dataset for finding the relationship between words.
