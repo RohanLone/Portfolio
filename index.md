@@ -30,7 +30,7 @@ Below are some of my skills, and I'm always looking to learn more.
 
 # Portfolio
 
-Here you can see some of the projects I've done on my own time.
+Listed below are some of the projects that I have done in my own time.
 
 ---
 
