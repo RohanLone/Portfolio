@@ -5,7 +5,7 @@
 
 # About
 
-Hi, I'm currently a graduate student working towards my Master of Technology (M.Tech.) degree in Computer Science. My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing. 
+Experienced Data Scientist with a demonstrated history of working across different domains. Experience in end-to-end project development and deployment. Skilled in Python, ML/DL Modeling, NLP, Data Engineering, Apache Airflow, Microsoft Azure, AWS, Databases. 
 
 ---
 
@@ -16,11 +16,12 @@ Below are some of my skills, and I'm always looking to learn more.
 | -------------       |:-------------:| 
 | Machine Learning     | 8/10 | 
 | Deep Learning      | 8/10      |  
-| Data Analysis | 9/10      |  
-| Cloud Computing | 8/10      | 
-| Python        | 9/10      |  
-| Java         | 7/10      |  
-| C/C++     | 7/10      |  
+| Python | 9/10      |  
+| Apache Airflow | 7/10      | 
+| Docker        | 9/10      |  
+| AWS         | 8/10      |  
+| Microsoft Azure         | 8/10      | 
+| C/C++     | 6/10      |  
 | MYSQL | 9/10      |  
 
 
