@@ -1,11 +1,13 @@
 [Home/](https://rohanlone.github.io/Home/)Portfolio
 
-### <em> Updated: 08/08/2021 </em>
+### <em> Updated: 30/04/2023 </em>
 
 
 # About
 
-Experienced Data Scientist with a demonstrated history of working across different domains. Experience in end-to-end project development and deployment. Skilled in Python, ML/DL Modeling, NLP, Data Engineering, Apache Airflow, Microsoft Azure, AWS, Databases. 
+As a seasoned data scientist with a proven track record of success across various industries, I have extensive experience in developing and deploying end-to-end machine learning solutions. My skillset includes proficiency in Python, ML/DL modeling, NLP, data engineering, Apache Airflow, Microsoft Azure, AWS, and databases, among other tools and technologies.
+
+I have a demonstrated ability to deliver scalable, reliable, and high-performing models and pipelines that are well-suited to production environments. Whether working with cloud platforms such as Microsoft Azure and AWS or leveraging cutting-edge machine learning algorithms, I am committed to developing and deploying data-driven solutions that create business value. 
 
 ---
 
@@ -36,7 +38,7 @@ Listed below are some of the projects that I have done in my own time.
 
 ## Project 1 
 # [Water Quality Analysis & Data Modeling](https://www.kaggle.com/rohanlone4/water-quality-analysis-and-ensemble-modeling) 
-Water quality is one amongst the foremost important factors in a healthy ecosystem. Clean water supports various plants and wildlife. Created a model to determine if the sample tested from the water body is fit for human consumption or not.
+Water quality is crucial for maintaining a healthy ecosystem, as it directly affects the plants and wildlife that rely on it. To assess whether a water sample is fit for human consumption, I developed a predictive model using an ensemble learning technique.
 
 * Built an predictive model using `Ensemble learning technique`.
 * Performed Data Preprocessing, Data Visualization and Data Modeling.
@@ -197,4 +199,4 @@ This project strictly built on OpenCV. Created an application using Streamlit li
 
 
 
-##### © 2021 Rohan Lone
+##### © 2023 Rohan Lone
