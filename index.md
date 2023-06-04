@@ -113,11 +113,7 @@ Project Goals:
 The methodology for this project will involve the following steps:
 
 1. `DATA COLLECTION:` In this project, I collected data from a soccer matches and the dataset was labeled using LabelImg, a free and open-source image annotation tool.
-2. `DATA PREPROCESSING:` The next step was to preprocess the data. This involved:
-
-- Converting the images to a format that the model could understand
-- Normalizing the images so that they had a consistent size and brightness
-- Augmenting the data by creating new images from the existing ones. This was done using a variety of techniques, such as rotating, flipping, and cropping the images.
+2. `DATA PREPROCESSING:` Converted the images to a format that the model could understand. Normalized the images so that they had a consistent size and brightness. Augmented the data by creating new images from the existing ones. This was done using a variety of techniques, such as rotating, flipping, and cropping the images.
 
 
 3. `MODEL DEVELOPMENT:` The model was trained on `Google Colab`, a cloud-based platform that provides free access to GPUs for machine learning tasks. The model was stored on Google Drive, a cloud-based storage service. The pre-trained model `ssd_mobilenet_v2_320x320_coco17` was used to implement `transfer learning`.
