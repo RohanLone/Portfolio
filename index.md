@@ -65,7 +65,7 @@ Despite these challenges, I was able to develop a predictive model that can be u
 # [Plant Leaf & Disease Recognition](https://www.kaggle.com/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
 This project aims to develop a deep learning model to automatically identify plant leaf diseases. The model is trained on a dataset of images of healthy and diseased plant leaves. The model is developed using the `Fast.ai` as well as `Tensorflow` library, which is a popular deep learning libraries for Python.
 
-Project Goals
+Project Goals:
 
 The goals of this project are to:
 
@@ -75,20 +75,18 @@ The goals of this project are to:
 The methodology for this project will involve the following steps:
 
 `1. DATA COLLECTION:` The data used in this project collected from the Plant Village dataset, which is a publicly available dataset of images of healthy and diseased plant leaves.
-
 `2. DATA PREPROCESSING:` The data is preprocessed to remove any noise or irrelevant features.
-
 `3. MODEL DEVELOPMENT:` A deep learning model developed using the Fast.ai and Tensorflow library. The model will be trained on a subset of the data and evaluated on the remaining data.
-	`* Fast.ai:` Used the ResNet18 pre-trained model, which is a convolutional neural network (CNN) that has been trained on a large dataset of images. This allows you to start with a model that has already learned to recognize certain features in images, which can help you to train your model more quickly.
 
+	`* Fast.ai:` Used the ResNet18 pre-trained model, which is a convolutional neural network (CNN) that has been trained on a large dataset of images. This allows you to start with a model that has already learned to recognize certain features in images, which can help you to train your model more quickly.
 `4. MODEL DEPOYMENT:` The model will is deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
 
-Project Challenges
+Project Challenges:
 1. The data was noisy and imbalanced.
 2. The model did not able to generalize to new data.
 3. The model was computationally expensive to train and deploy.
 
-Project Benefits
+Project Benefits:
 The benefits of this project include:
 
 1. The ability to automatically identify plant leaf diseases.
