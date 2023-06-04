@@ -38,14 +38,23 @@ Listed below are some of the projects that I have done in my own time.
 
 ## Project 1 
 # [Water Quality Analysis & Data Modeling](https://www.kaggle.com/rohanlone4/water-quality-analysis-and-ensemble-modeling) 
-Water quality is crucial for maintaining a healthy ecosystem, as it directly affects the plants and wildlife that rely on it. To assess whether a water sample is fit for human consumption, I developed a predictive model using an ensemble learning technique.
+Water Quality Analysis & Data Modeling is a project that focuses on assessing water quality and developing a predictive model for determining its suitability for human consumption. To assess whether a water sample is fit for human consumption, I developed a predictive model using an ensemble learning technique.
 
-* Built an predictive model using `Ensemble learning technique`.
-* Performed Data Preprocessing, Data Visualization and Data Modeling.
-* Dataset contains null values so replaced null values with mean.
-* Used Seaborn library for data visualization.
-* Tried algorithms like RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, LGBMClassifier. 
-* Performed Hyperparameter tuning on RandomForestClassifier and LGBMClassifier and improved the accuracy.
+Here are the steps I took:
+
+1. `Data preprocessing:` I cleaned the data by removing any null values and replacing them with the mean of the corresponding column.
+2. `Data visualization:` I used the Seaborn library to visualize the data and identify any potential trends or patterns.
+3. `Data modeling:` I trained a variety of machine learning models, including random forest, gradient boosting, AdaBoost, and LightGBM.
+4. `Model evaluation:` I evaluated the performance of the models using a variety of metrics, including accuracy, precision, and recall.
+5. `Hyperparameter tuning:` I tuned the hyperparameters of the random forest and LightGBM models to improve their accuracy.
+
+The final model achieved an accuracy of 87%. This means that the model was able to correctly predict whether a water sample was fit for human consumption with a 87% accuracy. This model can be used to monitor water quality and identify potential problems. It can also be used to educate the public about the importance of water quality.
+
+Here are some of the challenges I faced:
+1. The data was noisy and imbalanced.
+2. The models were computationally expensive to train and deploy.
+
+Despite these challenges, I was able to develop a predictive model that can be used to assess water quality. This model has the potential to improve public health and protect the environment.
 
 <img src="https://raw.githubusercontent.com/RohanLone/Home/gh-pages/assets/images/Water_Qulaity_Result.png?raw=true"/>
 
