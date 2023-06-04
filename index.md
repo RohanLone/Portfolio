@@ -42,11 +42,11 @@ Water Quality Analysis & Data Modeling is a project that focuses on assessing wa
 
 Here are the steps I took:
 
-1. `Data preprocessing:` I cleaned the data by removing any null values and replacing them with the mean of the corresponding column.
-2. `Data visualization:` I used the Seaborn library to visualize the data and identify any potential trends or patterns.
-3. `Data modeling:` I trained a variety of machine learning models, including random forest, gradient boosting, AdaBoost, and LightGBM.
-4. `Model evaluation:` I evaluated the performance of the models using a variety of metrics, including accuracy, precision, and recall.
-5. `Hyperparameter tuning:` I tuned the hyperparameters of the random forest and LightGBM models to improve their accuracy.
+1. `DATA PREPROCESSINH:` I cleaned the data by removing any null values and replacing them with the mean of the corresponding column.
+2. `DATA VISUALIZATION:` I used the Seaborn library to visualize the data and identify any potential trends or patterns.
+3. `DATA MODELING:` I trained a variety of machine learning models, including random forest, gradient boosting, AdaBoost, and LightGBM.
+4. `MODEL EVALUATION:` I evaluated the performance of the models using a variety of metrics, including accuracy, precision, and recall.
+5. `HYPERPARAMETER TUNING:` I tuned the hyperparameters of the random forest and LightGBM models to improve their accuracy.
 
 The final model achieved an accuracy of 87%. This means that the model was able to correctly predict whether a water sample was fit for human consumption with a 87% accuracy. This model can be used to monitor water quality and identify potential problems. It can also be used to educate the public about the importance of water quality.
 
@@ -62,17 +62,39 @@ Despite these challenges, I was able to develop a predictive model that can be u
 ---
 
 ## Project 2 
-# [Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
-Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+# [Plant Leaf & Disease Recognition](https://www.kaggle.com/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
+This project aims to develop a deep learning model to automatically identify plant leaf diseases. The model will be trained on a dataset of images of healthy and diseased plant leaves. The model will be developed using the `Fast.ai` as well as `Tensorflow` library, which is a popular deep learning libraries for Python.
 
-Predicting which Tweets are about real disasters and which ones are not.  
+Project Goals
 
-* Built a Keras model on Kaggle's Competition data: Natural Language Processing with Disaster Tweets. 
-* Performed EDA on data and visualized with word cloud. 
+The goals of this project are to:
 
+1. Develop a deep learning model that can accurately identify plant leaf diseases.
+2. Deploy the model to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
 
-<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/twitter.png?raw=true"/>
+The methodology for this project will involve the following steps:
+
+`1. Data collection:` The data used in this project collected from the Plant Village dataset, which is a publicly available dataset of images of healthy and diseased plant leaves.
+`2. Data preprocessing:` The data is preprocessed to remove any noise or irrelevant features.
+`3. Model development:` A deep learning model developed using the Fast.ai and Tensorflow library. The model will be trained on a subset of the data and evaluated on the remaining data.
+	`* Fast.ai:` Used the ResNet18 pre-trained model, which is a convolutional neural network (CNN) that has been trained on a large dataset of images. This allows you to start with a model that has already learned to recognize certain features in images, which can help you to train your model more quickly.
+`4. Model deployment:` The model will be deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
+
+Project Challenges
+1. The data may be noisy or imbalanced.
+2. The model may not be able to generalize to new data.
+3. The model may be computationally expensive to train and deploy.
+
+Project Benefits
+The benefits of this project include:
+
+1. The ability to automatically identify plant leaf diseases.
+2. The ability to reduce the spread of plant diseases.
+3. The ability to improve crop yields.
+4. The ability to save farmers money.
+
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%204.png?raw=true"/>
+&emsp;&emsp;&emsp; All the classes of plant disease dataset  
 
 ---
 
@@ -107,21 +129,17 @@ Before that dealt with the data, Prcoess like Data preprocessing, selection, ide
 
 
 ## Project 4
-# [Plant Leaf & Disease Recognition](https://www.kaggle.com/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
-In recent years, dramatic changes in climate and the lack of crop immunity have led to a significant increase in crop disease growth.
-This project suggests improving the use technology and using the most efficient Convolution Neural Network model to work with maximum accuracy and minimal resource consumption as a detection system. A CNN based model trained with images of healthy and unhealthy plant leaves using public datasets is proposed in this study. 
+# [Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-The result of this project is supposed to be of huge advantage to farmers as smart phone image processing would assist them simply by taking a photo of the plant leaf and performing the test on their smart phone to examine the quality of their crops on land.
+Predicting which Tweets are about real disasters and which ones are not.  
 
-* Built CNN model using Tensorflow that detects plant and it's disease
-* Dataset contains 80K+ images of healthy and diseased crop leaf.
-* Achieved Gold medal for notebook on kaggle
-* Used different pre-trained model to implement transfer learning.
-* Used different Data Augmentation techniques. 
-* Achieved 99% accuracy.
-* Built an web application for user interface
-<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%204.png?raw=true"/>
-&emsp;&emsp;&emsp; All the classes of plant disease dataset  
+* Built a Keras model on Kaggle's Competition data: Natural Language Processing with Disaster Tweets. 
+* Performed EDA on data and visualized with word cloud. 
+
+
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/twitter.png?raw=true"/>
 
 ---
 
