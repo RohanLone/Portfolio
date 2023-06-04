@@ -42,7 +42,7 @@ Water Quality Analysis & Data Modeling is a project that focuses on assessing wa
 
 Here are the steps I took:
 
-1. `DATA PREPROCESSINH:` I cleaned the data by removing any null values and replacing them with the mean of the corresponding column.
+1. `DATA PREPROCESSING:` I cleaned the data by removing any null values and replacing them with the mean of the corresponding column.
 2. `DATA VISUALIZATION:` I used the Seaborn library to visualize the data and identify any potential trends or patterns.
 3. `DATA MODELING:` I trained a variety of machine learning models, including random forest, gradient boosting, AdaBoost, and LightGBM.
 4. `MODEL EVALUATION:` I evaluated the performance of the models using a variety of metrics, including accuracy, precision, and recall.
@@ -63,7 +63,7 @@ Despite these challenges, I was able to develop a predictive model that can be u
 
 ## Project 2 
 # [Plant Leaf & Disease Recognition](https://www.kaggle.com/rohanlone4/plant-leaf-and-disease-recognition-using-fast-ai)
-This project aims to develop a deep learning model to automatically identify plant leaf diseases. The model will be trained on a dataset of images of healthy and diseased plant leaves. The model will be developed using the `Fast.ai` as well as `Tensorflow` library, which is a popular deep learning libraries for Python.
+This project aims to develop a deep learning model to automatically identify plant leaf diseases. The model is trained on a dataset of images of healthy and diseased plant leaves. The model is developed using the `Fast.ai` as well as `Tensorflow` library, which is a popular deep learning libraries for Python.
 
 Project Goals
 
@@ -74,16 +74,19 @@ The goals of this project are to:
 
 The methodology for this project will involve the following steps:
 
-`1. Data collection:` The data used in this project collected from the Plant Village dataset, which is a publicly available dataset of images of healthy and diseased plant leaves.
-`2. Data preprocessing:` The data is preprocessed to remove any noise or irrelevant features.
-`3. Model development:` A deep learning model developed using the Fast.ai and Tensorflow library. The model will be trained on a subset of the data and evaluated on the remaining data.
+`1. DATA COLLECTION:` The data used in this project collected from the Plant Village dataset, which is a publicly available dataset of images of healthy and diseased plant leaves.
+
+`2. DATA PREPROCESSING:` The data is preprocessed to remove any noise or irrelevant features.
+
+`3. MODEL DEVELOPMENT:` A deep learning model developed using the Fast.ai and Tensorflow library. The model will be trained on a subset of the data and evaluated on the remaining data.
 	`* Fast.ai:` Used the ResNet18 pre-trained model, which is a convolutional neural network (CNN) that has been trained on a large dataset of images. This allows you to start with a model that has already learned to recognize certain features in images, which can help you to train your model more quickly.
-`4. Model deployment:` The model will be deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
+
+`4. MODEL DEPOYMENT:` The model will is deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
 
 Project Challenges
-1. The data may be noisy or imbalanced.
-2. The model may not be able to generalize to new data.
-3. The model may be computationally expensive to train and deploy.
+1. The data was noisy and imbalanced.
+2. The model did not able to generalize to new data.
+3. The model was computationally expensive to train and deploy.
 
 Project Benefits
 The benefits of this project include:
@@ -92,13 +95,63 @@ The benefits of this project include:
 2. The ability to reduce the spread of plant diseases.
 3. The ability to improve crop yields.
 4. The ability to save farmers money.
-
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%204.png?raw=true"/>
-&emsp;&emsp;&emsp; All the classes of plant disease dataset  
+&emsp;&emsp;&emsp; All the classes of plant disease dataset 
 
 ---
 
 ## Project 3
+# [Soccer Player recognition using TensorFlow 2 Object Detection API](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0) 
+This project aims to develop a model that can recognize soccer players in images and videos. The model was built using the TensorFlow 2 Object Detection API. The API provides a set of tools and pre-trained models that can be used to build object detection models.
+
+The model was trained on a custom dataset that was created by me. The dataset consisted of images and videos of soccer players. The dataset was labeled using LabelImg, a free and open-source image annotation tool.
+
+The model was deployed as a web application. The web application allows users to upload images and videos of soccer players and receive a prediction of whether the images contain soccer players.
+
+Project Goals:
+
+* Develop a model that can accurately recognize soccer players in images and videos.
+* Deploy the model as a web application.
+* Make the model available to the public.
+
+
+The methodology for this project will involve the following steps:
+
+`1. DATA COLLECTION:` In this project, I collected data from a soccer matches and the dataset was labeled using LabelImg, a free and open-source image annotation tool.
+
+`2. DATA PREPROCESSING:` The next step was to preprocess the data. This involved:
+
+*Converting the images to a format that the model could understand
+* Normalizing the images so that they had a consistent size and brightness
+* Augmenting the data by creating new images from the existing ones. This was done using a variety of techniques, such as rotating, flipping, and cropping the images.
+
+
+`3. MODEL DEVELOPMENT:` The model was trained on `Google Colab`, a cloud-based platform that provides free access to GPUs for machine learning tasks. The model was stored on Google Drive, a cloud-based storage service. The pre-trained model `ssd_mobilenet_v2_320x320_coco17` was used to implement `transfer learning`.
+
+`4. MODEL DEPOYMENT:` The model was deployed as a web application. The web application allows users to upload images and videos of soccer players and receive a prediction of whether the images contain soccer players.
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/8.png?raw=true"/>
+
+
+---
+
+
+## Project 4
+# [Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+Predicting which Tweets are about real disasters and which ones are not.  
+
+* Built a Keras model on Kaggle's Competition data: Natural Language Processing with Disaster Tweets. 
+* Performed EDA on data and visualized with word cloud. 
+
+
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/twitter.png?raw=true"/>
+
+---
+
+
+## Project  5
 # [Heart Disease Prediction](https://github.com/RohanLone/Heart-Disease-Prediction) 
 The data set contains continuous and categorical data from the UCI Machine Learning Repository. It is used to predict whether or not a patient has heart disease.
 The dataset consists of 303 individuals data. There are 14 columns in the dataset, which are described below.
@@ -123,34 +176,6 @@ Before that dealt with the data, Prcoess like Data preprocessing, selection, ide
 
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/SVM.png?raw=true"/>
-
-
----
-
-
-## Project 4
-# [Disaster Tweets: NLP with Tensorflow](https://www.kaggle.com/rohanlone4/disaster-tweets-nlp-with-tensorflow)
-Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
-
-Predicting which Tweets are about real disasters and which ones are not.  
-
-* Built a Keras model on Kaggle's Competition data: Natural Language Processing with Disaster Tweets. 
-* Performed EDA on data and visualized with word cloud. 
-
-
-<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/twitter.png?raw=true"/>
-
----
-
-
-## Project  5
-# [Soccer Player recognition using TensorFlow 2 Object Detection API](https://github.com/RohanLone/Tensorflow_Object_Detection_with_Tensorflow_2.0) 
-* Created a model that detects players in frame.
-* Created custom dataset and labelled using LabelImg
-* Used Google Colab (for model training), Google Drive (for storage). 
-* ssd_mobilenet_v2_320x320_coco17_tpu pretrained model used to implement transfer learning. 
-<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/8.png?raw=true"/>
 
 ---
 
