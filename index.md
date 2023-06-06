@@ -19,12 +19,12 @@ Below are some of my skills, and I'm always looking to learn more.
 | Machine Learning     | 8/10 | 
 | Deep Learning      | 8/10      |  
 | Python | 9/10      |  
-| Apache Airflow | 7/10      | 
-| Docker        | 9/10      |  
+| Apache Airflow | 8/10      | 
+| Docker        | 8/10      |  
 | AWS         | 8/10      |  
 | Microsoft Azure         | 8/10      | 
 | C/C++     | 6/10      |  
-| MYSQL | 9/10      |  
+| MYSQL | 8/10      |  
 
 
 
