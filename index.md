@@ -76,7 +76,7 @@ The methodology for this project will involve the following steps:
 1. `DATA COLLECTION:` The data used in this project collected from the Plant Village dataset, which is a publicly available dataset of images of healthy and diseased plant leaves.
 2. `DATA PREPROCESSING:` The data is preprocessed to remove any noise or irrelevant features.
 3. `MODEL DEVELOPMENT:` A deep learning model developed using the Fast.ai and Tensorflow library. The model will be trained on a subset of the data and evaluated on the remaining data. `Fast.ai:` Used the ResNet18 pre-trained model, which is a convolutional neural network (CNN) that has been trained on a large dataset of images. This allows you to start with a model that has already learned to recognize certain features in images, which can help you to train your model more quickly.
-4. `MODEL DEPOYMENT:` The model will is deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
+4. `MODEL DEPLOYMENT:` The model will is deployed to a web application so that it can be used by farmers and other plant growers to identify and treat plant diseases.
 
 Project Challenges:
 1. The data was noisy and imbalanced.
@@ -118,7 +118,7 @@ The methodology for this project will involve the following steps:
 
 3. `MODEL DEVELOPMENT:` The model was trained on `Google Colab`, a cloud-based platform that provides free access to GPUs for machine learning tasks. The model was stored on Google Drive, a cloud-based storage service. The pre-trained model `ssd_mobilenet_v2_320x320_coco17` was used to implement `transfer learning`.
 
-4. `MODEL DEPOYMENT:` The model was deployed as a web application. The web application allows users to upload images and videos of soccer players and receive a prediction of whether the images contain soccer players.
+4. `MODEL DEPLOYMENT:` The model was deployed as a web application. The web application allows users to upload images and videos of soccer players and receive a prediction of whether the images contain soccer players.
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/8.png?raw=true"/>
 
 
